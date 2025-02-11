@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Himaja1729/Delicious_Food-App.git"
+  },
+  "author": "Himaja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Himaja1729/Delicious_Food-App/issues"
+  },
+  "homepage": "https://github.com/Himaja1729/Delicious_Food-App#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
